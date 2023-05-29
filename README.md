@@ -6,6 +6,12 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yur11-aleksandrov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://komarev.com/ghpvc/?username=https://github.com/AleksandrovYur11&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/AleksandrovYur11&style=flat-square&color=blue" alt=""/>
+<h1 align="center">Hi there, I'm Yurii Aleksandrov<a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student at ITMO University 🇷🇺</h3>
+
+    
+  
