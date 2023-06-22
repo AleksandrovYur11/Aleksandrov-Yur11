@@ -1,3 +1,4 @@
+<!-- BLOG-POST-LIST:START -->
 # Aleksandrov-Yur11
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFlNjJkZTE4NWNjYWY1ODFhOWEwYjRiZTg4YTZiNDE4YjAwZTkyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/vLlpbDafjgHystuJ0a/giphy.gif" width="150"/>
@@ -24,4 +25,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<!-- BLOG-POST-LIST:END -->
   
